@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+  <a href="">
+    <img alt="secktor docs" height="300" src="">
+    <h1 align="center"> DARK-QUEEN MD WHATSAPP BOT </h1>
   </a>
 </p>  
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{prabathLK}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mrtimaofc}/count.svg" alt="mrtimaofc :: Visitor's Count" /></p>
 
   <p align="center"> 🔴 This is a whatsapp bot created based on Secktor-md whatsapp bot.  </p
 
